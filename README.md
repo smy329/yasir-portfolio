@@ -7,20 +7,20 @@
 
 ## Live Demo
 
-- Click [here](https://netlify.app/) to view the live demo.
+- Click [here](https://syed-mohammad-yasir.netlify.app/) to view the live demo.
 
 ## LinkedIn
 
-- Click [here](https://netlify.app/) to view the live demo.
+- Click [here](https://www.linkedin.com/in/syedmohammadyasir/) to view the live demo.
 
 ## Stack Overflow
 
-- Click [here](https://netlify.app/) to view the live demo.
+- Click [here](https://stackoverflow.com/users/8733282/syed-mohammad-yasir) to view the live demo.
 
 ## Facebook
 
-- Click [here](https://facebook.com/cyasir) to view the live demo.
+- Click [here](https://www.facebook.com/cyasir) to view the live demo.
 
 ## Twitter
 
-- Click [here](https://twitter.com/cyasir) to view the live demo.
+- Click [here](https://twitter.com/smy329) to view the live demo.
