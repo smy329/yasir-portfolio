@@ -11,16 +11,16 @@
 
 ## LinkedIn
 
-- Click [here](https://www.linkedin.com/in/syedmohammadyasir/) to view the live demo.
+- Click [here](https://www.linkedin.com/in/syedmohammadyasir/) to find me in Linkedin.
 
 ## Stack Overflow
 
-- Click [here](https://stackoverflow.com/users/8733282/syed-mohammad-yasir) to view the live demo.
+- Click [here](https://stackoverflow.com/users/8733282/syed-mohammad-yasir) to follow me on Stack Overflow.
 
 ## Facebook
 
-- Click [here](https://www.facebook.com/cyasir) to view the live demo.
+- Click [here](https://www.facebook.com/cyasir) to connect with me on Facebook.
 
 ## Twitter
 
-- Click [here](https://twitter.com/smy329) to view the live demo.
+- Click [here](https://twitter.com/smy329) to connect with me.
